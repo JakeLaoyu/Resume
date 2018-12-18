@@ -278,6 +278,7 @@ h5 a {
 .exp {
     border-left: 2px solid #{$mainColor};
     margin-left: 15px;
+    list-style: none;
 }
 
 .exp p {
@@ -297,13 +298,20 @@ h5 a {
     max-width: 100%;
 }
 
-.exp ul > li {
-    margin: 0 0 12px 0;
-}
-
 .efe .task4img img {
     height: 97px;
     width: inherit;
+}
+
+.list {
+    padding-left: 20px;
+    & > li {
+        list-style: disc;
+        font-size: 15px;
+        color: #616161;
+        line-height: 23px;
+        margin-bottom: 5px;
+    }
 }
 
 footer {
