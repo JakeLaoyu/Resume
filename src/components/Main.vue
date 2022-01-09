@@ -30,10 +30,48 @@
       </li>
       <li>
         <dt><i class="icon-bookmark"></i>Experience. 项目与工作经验</dt>
+
         <h3>
           <img src="//blogimg.jakeyu.top/resume/有赞.png" data-action="zoom" />
           <span>有赞（2019.04 - 至今，前端开发工程师）</span>
         </h3>
+
+        <ul class="exp">
+          <li>
+            <div class="circle"></div>
+            <h4>微商城交易组（2019.04 - 2020.08）</h4>
+            <p>微商城是有赞核心赢利 sass 产品，为商家提供线上商城服务。</p>
+            <p>
+              负责微商城购物车、下单、订单、物流等交易相关 H5、小程序页面开发。
+            </p>
+          </li>
+
+          <li>
+            <div class="circle"></div>
+            <h4>微商城营销组（2020.08 - 2021.01）</h4>
+            <p>
+              负责微商城优惠券，满减送、大转盘等 N 多营销相关
+              H5、小程序页面开发。
+            </p>
+            <p>
+              作为营销业务
+              mentor，承接各业务方共建需求，把控技术方案和代码质量。
+            </p>
+          </li>
+
+          <li>
+            <div class="circle"></div>
+            <h4>旺小店业务（2021.01 - 至今）</h4>
+            <p>
+              旺小店是有赞战略计划针对下沉市场开发的产品，面向三四线县城/城市的市场。
+            </p>
+            <p>
+              使用 B/C
+              端一体的微信小程序。核心能力包括消费红包、社群接龙、次卡、储值等帮助商家引流到店。
+            </p>
+          </li>
+        </ul>
+
         <h3>
           <img
             src="//blogimg.jakeyu.top/resume/resume-dxy.png"
@@ -41,6 +79,7 @@
           />
           <span>丁香园（2017.04 - 2019.03，前端开发工程师）</span>
         </h3>
+
         <ul class="exp">
           <li>
             <div class="circle"></div>
