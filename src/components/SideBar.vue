@@ -16,7 +16,7 @@
           <i class="icon-mail-alt"></i>邮箱:
           <a href="mailto:e@jakeyu.cn" target="_blank">e@jakeyu.cn</a>
         </dd>
-        <dd><i class="icon-wechat"></i>微信: ycj-lza</dd>
+        <dd><i class="icon-wechat"></i>微信: Jake--e</dd>
         <dd>
           <i class="icon-qq"></i>QQ:
           <a
