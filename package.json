@@ -1,31 +1,17 @@
 {
-  "name": "aresume",
-  "version": "1.0.0",
-  "description": "Wow, such a beautiful resume",
-  "main": "index.html",
+  "name": "-",
+  "version": "0.0.0",
   "scripts": {
-    "start": "gulp",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DIYgod/Resume.git"
+  "dependencies": {
+    "vue": "^3.2.25"
   },
-  "keywords": [
-    "resume"
-  ],
-  "author": "DIYgod",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/DIYgod/Resume/issues"
-  },
-  "homepage": "https://github.com/DIYgod/Resume#readme",
   "devDependencies": {
-    "browser-sync": "^2.10.0",
-    "gulp": "^3.9.0",
-    "gulp-autoprefixer": "^3.1.0",
-    "gulp-minify-css": "^1.2.1",
-    "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.1.0"
+    "@vitejs/plugin-vue": "^2.0.0",
+    "sass": "^1.47.0",
+    "vite": "^2.7.2"
   }
 }
