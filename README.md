@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+# Jake 简历
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Usage
 
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+1. Star 本项目
+2. Clone 到本地
+3. 生成PDF（以 OS X 操作系统 Chrome 浏览器为例）：打开`文件->打印`，设置布局为纵向，纸张尺寸为A3，边距无，背景图片选项打钩，保存；压缩PDF，推荐在线压缩工具[smallpdf](http://smallpdf.com/cn/compress-pdf)；将压缩过的PDF文件放在根目录内
+4. 部署上线
+5. Enjoy it!
