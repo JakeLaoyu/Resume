@@ -52,8 +52,6 @@
   background: #29b6f6;
   color: #fff;
   line-height: 1.5;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
   box-sizing: border-box;
   margin-bottom: -10000px;
 

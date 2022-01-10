@@ -29,5 +29,11 @@ import Footer from "./components/Footer.vue";
   width: 1060px;
   overflow: hidden;
   border-radius: 4px;
+
+  @media print {
+    box-shadow: none;
+    width: 100%;
+    margin: 0;
+  }
 }
 </style>

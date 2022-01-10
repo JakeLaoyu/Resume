@@ -25,5 +25,9 @@
   a {
     color: #f25d8e;
   }
+
+  @media print {
+    display: none;
+  }
 }
 </style>
